@@ -1,0 +1,24 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "This is a web scraping project for dynamic web pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web scraping",
+    "node js",
+    "data",
+    "puppeteer",
+    "chrome",
+    "headless",
+    "automation"
+  ],
+  "author": "Mazri A.",
+  "license": "MIT",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "puppeteer": "^14.0.0"
+  }
+}
